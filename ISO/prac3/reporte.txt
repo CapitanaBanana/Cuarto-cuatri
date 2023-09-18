@@ -1,0 +1,5 @@
+/home/capi/test123.sh
+/home/capi/.local/share/plasma/plasmoids/AndromedaLauncher/translate/build.sh
+/home/capi/.local/share/plasma/plasmoids/AndromedaLauncher/translate/merge.sh
+/home/capi/prac3/ej16.sh
+/home/capi/prac3/ej13b.sh
